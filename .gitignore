@@ -1,0 +1,40 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.VC.db
+*.pdb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.log
+*.obj
+*.exe
+*.dll
+*.app
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj
+
+# Rider / VS Code / JetBrains / MacOS / Windows
+.idea/
+*.iml
+*.DS_Store
+Thumbs.db
+*.orig
+
+# Build outputs
+*.apk
+*.ipa
+*.x86
+*.x86_64
+*.exe
+*.dll
+*.app
+
+# Backup
+*.bak
+*.tmp
